@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CursValutar>
+  <DataCurs>2021-05-23</DataCurs>
+  <CursEUR valuta="EUR">4.9268</CursEUR>
+  <CursUSD valuta="USD">4.0281</CursUSD>
+  <CursGBP valuta="GBP">5.7258</CursGBP>
+  <CursAUR valuta="XAU">243.4675</CursAUR>
+</CursValutar>
